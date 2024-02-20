@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bofe Management.App", "Bofe Management.App\Bofe Management.App.csproj", "{20278887-1EB9-433F-BDF4-8D515622D566}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bofe Management.DataLayer", "DataLayer\Bofe Management.DataLayer.csproj", "{FD098F6B-91D7-4EED-8721-17F54CF276BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20278887-1EB9-433F-BDF4-8D515622D566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20278887-1EB9-433F-BDF4-8D515622D566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20278887-1EB9-433F-BDF4-8D515622D566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20278887-1EB9-433F-BDF4-8D515622D566}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD098F6B-91D7-4EED-8721-17F54CF276BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD098F6B-91D7-4EED-8721-17F54CF276BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD098F6B-91D7-4EED-8721-17F54CF276BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD098F6B-91D7-4EED-8721-17F54CF276BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {330E4106-063E-49BE-989F-DCB9289AE872}
+	EndGlobalSection
+EndGlobal

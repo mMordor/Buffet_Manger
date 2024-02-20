@@ -1,0 +1,33 @@
+﻿<Window x:Class="Bofe_Management.App.CustomerAddEditPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bofe_Management.App"
+        mc:Ignorable="d"
+        Title="" Height="420" FontSize="27" Width="597" FontFamily="B Nazanin">
+    <Grid>
+        <StackPanel Margin="20" Background="Beige">
+            <DockPanel Margin="10">
+                <Label>نام :</Label>
+                <TextBox  Width="350" HorizontalAlignment="Right"  Name="Nametxt"/>
+            </DockPanel>
+            <DockPanel Margin="10">
+                <Label>نام خانوادگی :</Label>
+                <TextBox  Width="350" HorizontalAlignment="Right"   Name="LNametxt"/>
+            </DockPanel>
+            <DockPanel Margin="10">
+                <Label>موبایل :</Label>
+                <TextBox  Width="350" HorizontalAlignment="Right"   Name="Phonetxt"/>
+            </DockPanel>
+            <DockPanel Margin="10">
+                <Label>حساب :</Label>
+                <TextBox  Width="350" HorizontalAlignment="Right"   Name="Accounttxt"/>
+            </DockPanel>
+            <DockPanel  Width="300">
+                <Button Width="130" Margin="10" Content="ذخیره" Name="Setbtn" Click="Setbtn_Click"/>
+                <Button Width="130" Margin="10" Content="انصراف" Name="Closebtn" Click="Closebtn_Click"/>
+            </DockPanel>
+        </StackPanel>
+    </Grid>
+</Window>

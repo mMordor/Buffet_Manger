@@ -1,0 +1,12 @@
+F:\projects\C#\windosform\Bofe Management\DataLayer\bin\Debug\DataLayer.dll
+F:\projects\C#\windosform\Bofe Management\DataLayer\bin\Debug\DataLayer.pdb
+F:\projects\C#\windosform\Bofe Management\DataLayer\obj\Debug\Bofe Management.DataLayer.csproj.AssemblyReference.cache
+F:\projects\C#\windosform\Bofe Management\DataLayer\obj\Debug\Bofe Management.DataLayer.csproj.CoreCompileInputs.cache
+F:\projects\C#\windosform\Bofe Management\DataLayer\obj\Debug\DataLayer.dll
+F:\projects\C#\windosform\Bofe Management\DataLayer\obj\Debug\DataLayer.pdb
+F:\projects\C#\windosform\Bofe Management\DataLayer\bin\Debug\DataLayer.dll.config
+F:\projects\C#\windosform\Bofe Management\DataLayer\bin\Debug\EntityFramework.dll
+F:\projects\C#\windosform\Bofe Management\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+F:\projects\C#\windosform\Bofe Management\DataLayer\bin\Debug\EntityFramework.xml
+F:\projects\C#\windosform\Bofe Management\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+F:\projects\C#\windosform\Bofe Management\DataLayer\obj\Debug\Bofe Management.DataLayer.csproj.CopyComplete

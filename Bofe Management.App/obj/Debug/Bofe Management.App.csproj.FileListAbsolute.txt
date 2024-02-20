@@ -1,0 +1,32 @@
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\bin\Debug\Bofe Management.App.exe.config
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\bin\Debug\Bofe Management.App.exe
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\bin\Debug\Bofe Management.App.pdb
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Debug\Bofe Management.App.csproj.AssemblyReference.cache
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Debug\Bofe Management.App.csproj.SuggestedBindingRedirects.cache
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Debug\MainWindow.g.cs
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Debug\App.g.cs
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Debug\Bofe Management.App_MarkupCompile.cache
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Debug\Bofe Management.App_MarkupCompile.lref
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Debug\MainWindow.baml
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Debug\Bofe Management.App.g.resources
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Debug\Bofe_Management.App.Properties.Resources.resources
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Debug\Bofe Management.App.csproj.GenerateResource.cache
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Debug\Bofe Management.App.csproj.CoreCompileInputs.cache
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Debug\Bofe Management.App.exe
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Debug\Bofe Management.App.pdb
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\bin\Debug\DataLayer.dll
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\bin\Debug\DataLayer.pdb
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Debug\Bofe Management.App.csproj.CopyComplete
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Debug\CustomerAddEditPage.g.cs
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Debug\CustomerAddEditPage.baml
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Debug\ProductAddEditPage.g.cs
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Debug\ProductAddEditPage.baml
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Debug\OrderAddEditPage.g.cs
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Debug\OrderAddEditPage.baml
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\bin\Debug\EntityFramework.dll
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\bin\Debug\DataLayer.dll.config
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\bin\Debug\EntityFramework.xml
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\bin\Debug\EntityFramework.SqlServer.dll
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\bin\Debug\EntityFramework.SqlServer.xml
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Debug\BalanceEditPage.g.cs
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Debug\BalanceEditPage.baml

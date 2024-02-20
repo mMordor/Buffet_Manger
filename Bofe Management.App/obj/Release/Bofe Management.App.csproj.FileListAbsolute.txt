@@ -1,0 +1,32 @@
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\bin\Release\Bofe Management.App.exe.config
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\bin\Release\Bofe Management.App.exe
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\bin\Release\Bofe Management.App.pdb
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\bin\Release\DataLayer.dll
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\bin\Release\EntityFramework.dll
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\bin\Release\EntityFramework.SqlServer.dll
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\bin\Release\DataLayer.pdb
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\bin\Release\DataLayer.dll.config
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\bin\Release\EntityFramework.xml
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\bin\Release\EntityFramework.SqlServer.xml
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Release\Bofe Management.App.csproj.AssemblyReference.cache
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Release\Bofe Management.App.csproj.SuggestedBindingRedirects.cache
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Release\BalanceEditPage.g.cs
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Release\CustomerAddEditPage.g.cs
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Release\MainWindow.g.cs
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Release\OrderAddEditPage.g.cs
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Release\ProductAddEditPage.g.cs
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Release\App.g.cs
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Release\Bofe Management.App_MarkupCompile.cache
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Release\Bofe Management.App_MarkupCompile.lref
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Release\BalanceEditPage.baml
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Release\CustomerAddEditPage.baml
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Release\MainWindow.baml
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Release\OrderAddEditPage.baml
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Release\ProductAddEditPage.baml
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Release\Bofe Management.App.g.resources
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Release\Bofe_Management.App.Properties.Resources.resources
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Release\Bofe Management.App.csproj.GenerateResource.cache
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Release\Bofe Management.App.csproj.CoreCompileInputs.cache
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Release\Bofe Management.App.csproj.CopyComplete
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Release\Bofe Management.App.exe
+F:\projects\C#\windosform\Bofe Management\Bofe Management.App\obj\Release\Bofe Management.App.pdb
